@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "158174555856",
+    "firebase_url": "https://nyumba-kumi-app-4cdf0-default-rtdb.firebaseio.com",
+    "project_id": "nyumba-kumi-app-4cdf0",
+    "storage_bucket": "nyumba-kumi-app-4cdf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158174555856:android:7003670be65a7eedc1f8d5",
+        "android_client_info": {
+          "package_name": "com.example.nyumbakumi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp6g8GnJg6tH6HH05ogizg2abZduJAOf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
